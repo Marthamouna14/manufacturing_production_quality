@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Manufacturing Production & Quality Control Management System
 
 FastAPI starter backend covering authentication/RBAC, plants, production lines, products, materials, BOM, machines, production orders and batches, quality inspections, defects, inventory movement, maintenance, downtime, dashboard, reports, notifications and audit logs.
@@ -63,3 +64,6 @@ erDiagram
  MACHINE ||--o{ DOWNTIME_RECORD : downtime
  USER ||--o{ AUDIT_LOG : performs
 ```
+=======
+# manufacturing_production_quality
+>>>>>>> ae843f1809ae8dd93f643e34a26e6964c7493171
